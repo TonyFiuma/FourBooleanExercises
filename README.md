@@ -1,3 +1,3 @@
 # FourBooleanExercises
 
-Collection of exercise solved in the course (Develhope) to deepen my knowledge of Java
+Collection of exercise solved in school (Develhope) to deepen my knowledge of Java
